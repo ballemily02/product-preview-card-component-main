@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ballemily02/product-preview-card-component-main](https://github.com/ballemily02/product-preview-card-component-main)
+- Live Site URL: [https://product-preview-card-component-main-sigma-pearl.vercel.app/](https://product-preview-card-component-main-sigma-pearl.vercel.app/)
 
 ## My process
 
@@ -43,6 +43,7 @@ Users should be able to:
 
 I found this challenge definetly the hardest yet as I had no idea where to start. I found that starting with the desktop design first was really helpful then researching how to make the design responsive. Specifically this code below:
 
+```
 @media (max-width: 600px) {
     #card {
         border-radius: 10px;
@@ -62,7 +63,9 @@ I found this challenge definetly the hardest yet as I had no idea where to start
         width: 100%;
         background-position: center;
     }
-}
+  }
+
+```
 
 Overall I am really pleased with everything I've learnt this challenge and am really excited to take these skills forward.
 
